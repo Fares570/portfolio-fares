@@ -11,8 +11,8 @@ const projects = [
     stack: ["React", "Redux", "JavaScript", "API REST", "CSS"],
     result:
       "Application responsive, structurée et maintenable, avec gestion d’état globale.",
-    github: "#",
-    demo: "#"
+    github: "https://github.com/Fares570/NOM-DU-REPO-ARGENTBANK",
+    demo: "https://argentbank-demo.netlify.app"
   },
   {
     title: "Planification d’un site client",
@@ -23,8 +23,8 @@ const projects = [
     stack: ["Kanban", "Agile", "Notion", "User Stories", "Gestion de projet"],
     result:
       "Projet cadré de manière professionnelle avec tâches détaillées, priorités et suivi d’avancement.",
-    github: "#",
-    demo: "#"
+    github: "https://github.com/Fares570/portfolio-fares",
+    demo: "https://www.notion.so/Kanban-Menu-Maker-Qwenta-35e22039296c8021a865ecf434e720d1"
   }
 ];
 

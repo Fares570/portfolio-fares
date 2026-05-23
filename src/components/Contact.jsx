@@ -12,8 +12,22 @@ function Contact() {
 
         <div className="contact-links">
           <a href="mailto:fares.zeghadi@free.fr">Email</a>
-          <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a href="#" target="_blank" rel="noreferrer">GitHub</a>
+
+          <a
+            href="https://www.linkedin.com/in/fares-zeghadi-cybersécurité"
+            target="_blank"
+            rel="noreferrer"
+          >
+            LinkedIn
+          </a>
+
+          <a
+            href="https://github.com/Fares570"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
         </div>
       </div>
     </section>
