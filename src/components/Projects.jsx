@@ -11,7 +11,7 @@ const projects = [
     stack: ["React", "Redux", "JavaScript", "API REST", "CSS"],
     result:
       "Application responsive, structurée et maintenable, avec gestion d’état globale.",
-    github: "https://github.com/Fares570/NOM-DU-REPO-ARGENTBANK",
+    github: "https://github.com/Fares570/ArgentBank.git",
     demo: "https://argentbank-demo.netlify.app"
   },
   {
