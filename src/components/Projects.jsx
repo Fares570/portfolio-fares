@@ -6,11 +6,11 @@ const projects = [
     title: "ArgentBank",
     subtitle: "Application bancaire React",
     image: argentBankImage,
-    description:
-      "Développement d’une application bancaire moderne avec React et Redux, incluant l’authentification utilisateur, la gestion du profil et une architecture en composants.",
+    description: "Développement d’une application bancaire moderne avec React et Redux, incluant l’authentification utilisateur, la gestion du profil et une architecture en composants.",
     stack: ["React", "Redux", "JavaScript", "API REST", "CSS"],
-    result:
-      "Application responsive, structurée et maintenable, avec gestion d’état globale.",
+    skills: "Développement React, gestion d’état avec Redux, intégration d’API REST, responsive design et architecture en composants réutilisables.",
+    result: "Application responsive, structurée et maintenable, avec gestion d’état globale.",
+    improvements: "Ajout d’une authentification renforcée, optimisation des performances et amélioration de l’expérience utilisateur.",
     github: "https://github.com/Fares570/ArgentBank.git",
     demo: "https://argent-bank-76wqrdhe1-fares89.vercel.app/"
   },
@@ -18,11 +18,11 @@ const projects = [
     title: "Planification d’un site client",
     subtitle: "Gestion de projet web",
     image: kanbanImage,
-    description:
-      "Organisation complète du développement d’un site client avec tableau Kanban, user stories, estimation des tâches et priorisation.",
+    description: "Organisation complète du développement d’un site client avec tableau Kanban, user stories, estimation des tâches et priorisation.",
     stack: ["Kanban", "Agile", "Notion", "User Stories", "Gestion de projet"],
-    result:
-      "Projet cadré de manière professionnelle avec tâches détaillées, priorités et suivi d’avancement.",
+    skills: "Gestion de projet Agile, organisation des tâches, rédaction de user stories, priorisation et suivi d’avancement.",
+    result: "Projet cadré de manière professionnelle avec tâches détaillées, priorités et suivi d’avancement.",
+    improvement: "Amélioration possible avec une planification plus détaillée des sprints et un suivi collaboratif en temps réel.",
     github: "https://github.com/Fares570/portfolio-fares",
     demo: "https://www.notion.so/Kanban-Menu-Maker-Qwenta-35e22039296c8021a865ecf434e720d1"
   }
@@ -38,7 +38,7 @@ function Projects() {
         {projects.map((project) => (
           <article className="project-card fade-up" key={project.title}>
             <div className="project-visual">
-              <img src={project.image} alt={`Capture d’écran du projet ${project.title}`} loading="lazy"/>
+              <img src={project.image} alt={`Capture d’écran du projet ${project.title}`} loading="lazy" />
             </div>
 
             <div className="project-content">
@@ -55,6 +55,13 @@ function Projects() {
 
               <p className="project-result">
                 <strong>Résultat :</strong> {project.result}
+              </p>
+              <p className="project-skills">
+                <strong>Compétences développées :</strong> {project.skills}
+              </p>
+
+              <p className="project-improvements">
+                <strong>Perspectives d’amélioration :</strong> {project.improvements}
               </p>
 
               <div className="project-links">
