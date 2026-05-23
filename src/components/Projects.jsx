@@ -12,7 +12,7 @@ const projects = [
     result:
       "Application responsive, structurée et maintenable, avec gestion d’état globale.",
     github: "https://github.com/Fares570/ArgentBank.git",
-    demo: "https://argentbank-demo.netlify.app"
+    demo: "https://argent-bank-76wqrdhe1-fares89.vercel.app/"
   },
   {
     title: "Planification d’un site client",
