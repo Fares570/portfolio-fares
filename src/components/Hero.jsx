@@ -7,7 +7,7 @@ function Hero() {
           Disponible pour opportunités
         </div>
 
-        <p className="eyebrow">Portfolio Développeur Web</p>
+        <p className="eyebrow">Portfolio Cybersécurité & Développement Full Stack</p>
 
         <h1>
           Fares Zeghadi
