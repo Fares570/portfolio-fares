@@ -1,7 +1,7 @@
 import argentBankImage from "../assets/argentbank.webp";
 import kanbanImage from "../assets/kanban.webp";
-import pkiImage from "../assets/certificat-PKI.webp";
-import vulnImage from "../assets/vulnerabilite.webp";
+import pkiImage from "../assets/pki.webp";
+import vulnImage from "../assets/vuln.webp";
 
 const projects = [
   {
