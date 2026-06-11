@@ -1,3 +1,6 @@
+import cvPdf from "../assets/CV_Fares_Zeghadi.pdf";
+
+
 function Contact() {
   return (
     <section id="contact" className="section contact-section">
@@ -6,8 +9,7 @@ function Contact() {
 
       <div className="contact-card">
         <p>
-          Je suis disponible pour échanger autour d’un poste de développeur web junior,
-          d’intégrateur front-end ou d’un projet web.
+          Je suis disponible pour échanger.
         </p>
 
         <div className="contact-links">
@@ -27,6 +29,14 @@ function Contact() {
             rel="noreferrer"
           >
             GitHub
+          </a>
+
+          <a
+            href={cvPdf}
+            target="_blank"
+            rel="noreferrer"
+          >
+            CV
           </a>
         </div>
       </div>
