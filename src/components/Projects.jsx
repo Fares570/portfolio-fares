@@ -24,7 +24,7 @@ const projects = [
     stack: ["Kanban", "Agile", "Notion", "User Stories", "Gestion de projet"],
     skills: "Gestion de projet Agile, organisation des tâches, rédaction de user stories, priorisation et suivi d’avancement.",
     result: "Projet cadré de manière professionnelle avec tâches détaillées, priorités et suivi d’avancement.",
-    improvement: "Amélioration possible avec une planification plus détaillée des sprints et un suivi collaboratif en temps réel.",
+    improvements: "Amélioration possible avec une planification plus détaillée des sprints et un suivi collaboratif en temps réel.",
     github: "https://github.com/Fares570/portfolio-fares",
     demo: "https://www.notion.so/Kanban-Menu-Maker-Qwenta-35e22039296c8021a865ecf434e720d1"
   },
