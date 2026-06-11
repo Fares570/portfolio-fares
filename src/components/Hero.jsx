@@ -36,13 +36,17 @@ function Hero() {
           </div>
 
           <div className="stat-card">
-            <h3>React</h3>
-            <p>Développement moderne</p>
+            <h3>Frontend</h3>
+            <p>Développement frontend</p>
           </div>
 
           <div className="stat-card">
-            <h3>SEO</h3>
-            <p>Responsive & accessibilité</p>
+            <h3>Backend</h3>
+            <p>Développement backend</p>
+          </div>
+          <div className="stat-card">
+            <h3>Cybersécurité</h3>
+            <p>Cybersécurité GRC</p>
           </div>
         </div>
       </div>
@@ -61,10 +65,33 @@ function Hero() {
           <span>SEO</span>
           <span>Accessibilité</span>
           <span>GitHub</span>
+          <span>Cybersécurité</span>
+          <span>Protection des données</span>
+          <span>Audit de sécurité</span>
+          <span>Conformité</span>
+          <span>Gestion de projet IT</span>
+          <span>Gestion des incidents</span>
+          <span>Gestion des vulnérabilités</span>
+        </div>
+      </div>
+      <div className="hero-card">
+        <div className="hero-glow"></div>
+
+        <p className="card-label">Certification Professionnelle</p>
+
+        <div className="tech-list">
+          <span>Certification ISO 27001</span>
+          <span>Certification ISO 27005</span>
+          <span>Mooc ANSSI</span>
+          <span>Mooc CNIL</span>
+          <span>RGPD</span>
         </div>
       </div>
     </section>
   );
+        </div >
+      </div >
+    </section >
 }
 
 export default Hero;
