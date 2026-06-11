@@ -11,7 +11,7 @@ function Hero() {
 
         <h1>
           Fares Zeghadi
-          <span>Cybersécurité GRC & Developpeur Fullstack</span>
+          <span>Cybersécurité GRC • Développement Web • Gestion de Projet IT</span>
         </h1>
 
         <p className="hero-text">
@@ -89,9 +89,6 @@ function Hero() {
       </div>
     </section>
   );
-        </div >
-      </div >
-    </section >
 }
 
 export default Hero;
