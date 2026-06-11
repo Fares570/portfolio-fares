@@ -1,5 +1,7 @@
 import argentBankImage from "../assets/argentbank.webp";
 import kanbanImage from "../assets/kanban.webp";
+import pkiImage from "../assets/pki.webp";
+import vulnImage from "../assets/vuln.webp";
 
 const projects = [
   {
@@ -29,6 +31,7 @@ const projects = [
   {
     title: "Renouvellemnent Certificat PKI",
     subtitle: "Pilotage de projet IT",
+    image: pkiImage,
     description: "Renouvellement du certificat PKI pour assurer la continuité de l'infrastructure de sécurité.",
     stack: ["GRC", "Protection des données", "Audit de sécurité", "Conformité","PKI", "Gestion de projet"],
     skills: "Gestion de projet IT, cybersécurité GRC, protection des données, audit de sécurité et conformité réglementaire, Environnement Linux,Windows",
@@ -38,6 +41,7 @@ const projects = [
   {
     title: "Gestion des vulnérabilités",
     subtitle: "Analyse et mitigation des risques",
+    image: vulnImage,
     description: "Analyse et gestion des vulnérabilités dans l'infrastructure informatique.",
     stack: ["GRC", "Protection des données", "Audit de sécurité", "Conformité","Gestion des vulnérabilités", "Plan de réponse aux incidents","Sensibilisation à la sécurité"],
     skills: "Analyse de risques, gestion des vulnérabilités, cybersécurité GRC, protection des données, audit de sécurité et conformité réglementaire, Environnement Linux,Windows",
