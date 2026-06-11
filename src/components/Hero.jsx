@@ -11,7 +11,7 @@ function Hero() {
 
         <h1>
           Fares Zeghadi
-          <span>Développeur Web Front-End</span>
+          <span>Cybersécurité GRC & Developpeur Fullstack</span>
         </h1>
 
         <p className="hero-text">

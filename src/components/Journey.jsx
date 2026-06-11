@@ -7,16 +7,16 @@ function Journey() {
       <div className="timeline">
         <article className="timeline-item">
           <span>2025 - 2026</span>
-          <h3>Formation Intégrateur Web — OpenClassrooms</h3>
+          <h3>Bac+2 Développeur Web — OpenClassrooms</h3>
           <p>
-            Réalisation de projets web en HTML, CSS, JavaScript et React avec une attention
-            portée au responsive design, au SEO, à l’accessibilité et à la gestion de projet.
+            Réalisation de projets web Frontend et Backend avec une attention
+            portée au responsive design, au SEO, à l’accessibilité, à la gestion de projet et la sécurité informatique.
           </p>
         </article>
 
         <article className="timeline-item">
-          <span>Expérience précédente</span>
-          <h3>IT & Cybersécurité</h3>
+          <span>2019 - 2025</span>
+          <h3>Consultant en Cybersécurité</h3>
           <p>
             Expérience en environnement technique, coordination, gestion de projet,
             suivi d’actions et rigueur opérationnelle.

@@ -7,8 +7,8 @@ const projects = [
     subtitle: "Application bancaire React",
     image: argentBankImage,
     description: "Développement d’une application bancaire moderne avec React et Redux, incluant l’authentification utilisateur, la gestion du profil et une architecture en composants.",
-    stack: ["React", "Redux", "JavaScript", "API REST", "CSS"],
-    skills: "Développement React, gestion d’état avec Redux, intégration d’API REST, responsive design et architecture en composants réutilisables.",
+    stack: ["React", "Redux", "JavaScript", "API REST", "CSS", "MongoDB"],
+    skills: "Développement React, gestion d’état avec Redux, intégration d’API REST, responsive design et architecture en composants réutilisables, gestion utilisateur et backend",
     result: "Application responsive, structurée et maintenable, avec gestion d’état globale.",
     improvements: "Ajout d’une authentification renforcée, optimisation des performances et amélioration de l’expérience utilisateur.",
     github: "https://github.com/Fares570/ArgentBank.git",
@@ -25,6 +25,24 @@ const projects = [
     improvement: "Amélioration possible avec une planification plus détaillée des sprints et un suivi collaboratif en temps réel.",
     github: "https://github.com/Fares570/portfolio-fares",
     demo: "https://www.notion.so/Kanban-Menu-Maker-Qwenta-35e22039296c8021a865ecf434e720d1"
+  },
+  {
+    title: "Renouvellemnent Certificat PKI",
+    subtitle: "Pilotage de projet IT",
+    description: "Renouvellement du certificat PKI pour assurer la continuité de l'infrastructure de sécurité.",
+    stack: ["GRC", "Protection des données", "Audit de sécurité", "Conformité","PKI", "Gestion de projet"],
+    skills: "Gestion de projet IT, cybersécurité GRC, protection des données, audit de sécurité et conformité réglementaire, Environnement Linux,Windows",
+    result: "Amélioration de la posture de sécurité et conformité réglementaire.",
+    improvements: "Intégration continue des meilleures pratiques en cybersécurité.",
+  },
+  {
+    title: "Gestion des vulnérabilités",
+    subtitle: "Analyse et mitigation des risques",
+    description: "Analyse et gestion des vulnérabilités dans l'infrastructure informatique.",
+    stack: ["GRC", "Protection des données", "Audit de sécurité", "Conformité","Gestion des vulnérabilités", "Plan de réponse aux incidents","Sensibilisation à la sécurité"],
+    skills: "Analyse de risques, gestion des vulnérabilités, cybersécurité GRC, protection des données, audit de sécurité et conformité réglementaire, Environnement Linux,Windows",
+    result: "Réduction des risques et amélioration de la posture de sécurité.",
+    improvements: "Intégration continue des meilleures pratiques en cybersécurité.",
   }
 ];
 

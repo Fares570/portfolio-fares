@@ -10,6 +10,22 @@ const skillGroups = [
   {
     title: "Outils & Méthodes",
     skills: ["Git", "GitHub", "Vercel", "Kanban", "Agile"]
+  },
+  {
+    title: "Cybersécurité",
+    skills: ["GRC", "Protection des données", "Audit de sécurité", "Conformité"," KPI/KRI","Gestion des risques","PCA/PSA","Sensibilisation à la sécurité","Gestion des vulnérabilités","Plan de réponse aux incidents"]
+  },
+  {
+    title: "Back-End",
+    skills: ["Node.js", "Express", "MongoDB", "API REST"]
+  },
+  {
+    title: "Base de données",
+    skills: ["SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL","YAML","JSON"]
+  },
+  {
+    title: "Langages de programmation",
+    skills: ["JavaScript", "Python", "Java", "C++"]
   }
 ];
 
