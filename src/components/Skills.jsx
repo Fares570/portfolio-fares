@@ -26,6 +26,10 @@ const skillGroups = [
   {
     title: "Langages de programmation",
     skills: ["JavaScript", "Python", "Java", "C++"]
+  },
+  {
+    title: "Systèmes d'exploitation",
+    skills: ["Linux", "Windows", "macOS", "Unix", "Environnement cloud (AWS, Azure)","Debian","Ubuntu","Red Hat"]
   }
 ];
 
