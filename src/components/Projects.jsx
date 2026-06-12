@@ -2,6 +2,7 @@ import argentBankImage from "../assets/argentbank.webp";
 import kanbanImage from "../assets/kanban.webp";
 import pkiImage from "../assets/pki.webp";
 import vulnImage from "../assets/vuln.webp";
+import ninacarducciImage from "../assets/ninacarducci.webp";
 
 const projects = [
   {
@@ -15,6 +16,18 @@ const projects = [
     improvements: "Ajout d’une authentification renforcée, optimisation des performances et amélioration de l’expérience utilisateur.",
     github: "https://github.com/Fares570/ArgentBank.git",
     demo: "https://argent-bank-76wqrdhe1-fares89.vercel.app/"
+  },
+  {
+    title: "Ninacarducci",
+    subtitle: "Site professionnel pour une photographe",  
+    image: ninacarducciImage,
+    description: "Développement d’un site web professionnel pour une photographe, mettant en valeur son travail et ses services.",
+    stack: ["HTML", "CSS", "JavaScript", "Responsive Design", "SEO", "Git", "GitHub", "Vercel", "Performance"],
+    skills: "Développement web, conception responsive, gestion de contenu et optimisation pour les moteurs de recherche.",
+    result: "Site web moderne et attrayant, avec une présentation professionnelle de l’art et des services de la photographe.",
+    improvements: "Intégration de fonctionnalités supplémentaires comme un portfolio interactif et un système de réservation en ligne.",
+    github: "https://github.com/Fares570/Ninacarducci.git",
+    demo: "https://ninacarducci-github-io-flax.vercel.app/"
   },
   {
     title: "Planification d’un site client",
