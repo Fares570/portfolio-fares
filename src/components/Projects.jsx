@@ -3,6 +3,7 @@ import kanbanImage from "../assets/kanban.webp";
 import pkiImage from "../assets/pki.webp";
 import vulnImage from "../assets/vuln.webp";
 import ninacarducciImage from "../assets/ninacarducci.webp";
+import kasaImage from "../assets/kasa.webp";
 
 const projects = [
   {
@@ -29,6 +30,7 @@ const projects = [
     github: "https://github.com/Fares570/Ninacarducci.git",
     demo: "https://ninacarducci-github-io-flax.vercel.app/"
   },
+  
   {
     title: "Planification d’un site client",
     subtitle: "Gestion de projet web",
@@ -40,6 +42,18 @@ const projects = [
     improvements: "Amélioration possible avec une planification plus détaillée des sprints et un suivi collaboratif en temps réel.",
     github: "https://github.com/Fares570/portfolio-fares",
     demo: "https://www.notion.so/Kanban-Menu-Maker-Qwenta-35e22039296c8021a865ecf434e720d1"
+  },
+  {
+    title: "Kasa -Location d’appartements",
+    subtitle: "Application de location d’appartements",
+    image: kasaImage,
+    description: "Développement d’une application de location d’appartements avec React, intégrant une interface utilisateur moderne et une gestion efficace des données.",
+    stack: ["React", "JavaScript", "CSS", "API REST", "Git", "GitHub", "Vercel", "Responsive Design","Vite"],
+    skills: "Développement React, gestion d’état local, intégration d’API REST, responsive design et déploiement sur Vercel.",
+    result: "Application de location d’appartements fonctionnelle avec une interface utilisateur moderne et une gestion efficace des données.",
+    improvements: "Ajout de fonctionnalités supplémentaires comme un système de réservation en ligne et une interface d’administration pour les propriétaires.",
+    github: "https://github.com/Fares570/kasa.git",
+    demo: "https://kasa-ivory-eight.vercel.app/"
   },
   {
     title: "Renouvellemnent Certificat PKI",
