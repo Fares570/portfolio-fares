@@ -9,7 +9,7 @@ const skillGroups = [
   },
   {
     title: "Outils & Méthodes",
-    skills: ["Git", "GitHub", "Vercel", "Kanban", "Agile"]
+    skills: ["Git", "GitHub", "Vercel", "Kanban", "Agile", "Notion", "User Stories", "ServiceNow", "Jira", "CMDB", "ITIL", "Gestion des incidents", "Gestion des vulnérabilités"]
   },
   {
     title: "Cybersécurité",
@@ -21,7 +21,7 @@ const skillGroups = [
   },
   {
     title: "Base de données",
-    skills: ["SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL","YAML","JSON"]
+    skills: ["SQL", "NoSQL", "PostgreSQL", "MySQL","YAML","JSON"]
   },
   {
     title: "Langages de programmation",

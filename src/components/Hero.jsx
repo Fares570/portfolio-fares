@@ -11,7 +11,7 @@ function Hero() {
 
         <h1>
           Fares Zeghadi
-          <span>Cybersécurité GRC • Développement Web • Gestion de Projet IT</span>
+          <span>Cybersécurité GRC • Développement Fullstack • Gestion de Projet IT</span>
         </h1>
 
         <p className="hero-text">
