@@ -15,8 +15,8 @@ function Hero() {
         </h1>
 
         <p className="hero-text">
-          Je développe des interfaces modernes, responsives et accessibles
-          avec React, JavaScript et les bonnes pratiques du développement web moderne.
+          Avec plus de six années d’expérience dans l’informatique et la cybersécurité, 
+          je combine des compétences en développement fullstack, gestion de projet IT et cybersécurité.
         </p>
 
         <div className="hero-buttons">
