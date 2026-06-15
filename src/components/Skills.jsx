@@ -9,11 +9,11 @@ const skillGroups = [
   },
   {
     title: "Outils & Méthodes",
-    skills: ["Git", "GitHub", "Vercel", "Kanban", "Agile", "Notion", "User Stories", "ServiceNow", "Jira", "CMDB", "ITIL", "Gestion des incidents", "Gestion des vulnérabilités"]
+    skills: ["Git", "GitHub", "Vercel", "Kanban", "Agile", "Notion", "User Stories", "ServiceNow", "Jira", "CMDB", "ITIL",]
   },
   {
     title: "Cybersécurité",
-    skills: ["GRC", "Protection des données", "Audit de sécurité", "Conformité"," KPI/KRI","Gestion des risques","PCA/PSA","Sensibilisation à la sécurité","Gestion des vulnérabilités","Plan de réponse aux incidents"]
+    skills: ["GRC", "Protection des données", "Audit de sécurité", "Conformité"," KPI/KRI","Gestion des risques","PCA/PSA","Sensibilisation à la sécurité","Gestion des vulnérabilités","Plan de réponse aux incidents", "Analyse de risques", "Audit de sécurité et conformité réglementaire"]
   },
   {
     title: "Back-End",
@@ -30,7 +30,7 @@ const skillGroups = [
   {
     title: "Systèmes d'exploitation",
     skills: ["Linux", "Windows", "macOS", "Unix", "Environnement cloud (AWS, Azure)","Debian","Ubuntu","Red Hat"]
-  }
+  },
 ];
 
 function Skills() {
